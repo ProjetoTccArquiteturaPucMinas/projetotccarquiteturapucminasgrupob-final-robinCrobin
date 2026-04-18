@@ -6,8 +6,10 @@ Este projeto faz parte de um experimento acadêmico para avaliar esforço de com
 Você recebeu a versão do sistema implementada com **arquitetura em camadas**.
 
 ## Sua tarefa
-1. Identificar a arquitetura usada no projeto.
-2. Justificar com base na estrutura do código.
+1. Identificar a arquitetura usada no projeto: arquitetura em camadas MVC.
+
+2. Justificar com base na estrutura do código: presença de model, repository e controller.
+
 3. Identificar a classe que deve ser alterada
 4. Implementar a feature de cálculo de descontos no carrinho.
 5. Realizar testes de ponta a ponta para validar a implementação.
