@@ -1,6 +1,6 @@
 ﻿# Sistema de Cálculo de Descontos para Marketplace 
  
-## Seu Nome:
+## Seu Nome: Roberta Sophia Carvalho Silva
 
 ## Visão Geral do Projeto
 
